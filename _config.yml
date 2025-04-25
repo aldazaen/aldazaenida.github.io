@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Indonesian"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "IGF Primers"
 title_separator          : "-"
