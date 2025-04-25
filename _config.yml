@@ -13,7 +13,7 @@ title                    : "IGF Primers"
 title_separator          : "-"
 name                     : &name "Alda Zaenida"
 description              : &description "Student at Universitas Gadjah Mada, Indonesia."
-"
+
 url                      : https://aldazaen.github.io/aldazaenida.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://aldazaen.github.io/aldazaenida.github.io/"
@@ -24,13 +24,13 @@ repository               : "https://aldazaen.github.io/aldazaenida.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Alda Zaenida"
+  pronouns         : # example: "she"  
+  bio              : "Biomedical Scientist"
+  location         : "Purwokerto - Yogyakarta"
+  employer         : "Universitas Gadjah Mada"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aldazaenidanurulraizma@mail.ugm.ac.id"" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -63,7 +63,7 @@ author:
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
-  pinterest        : # Username
+  pinterest        : # aldaazaen
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
